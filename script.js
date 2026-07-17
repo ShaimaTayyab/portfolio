@@ -424,12 +424,12 @@ const projectsData = [
     description: "Modern, responsive portfolio website with dark theme, smooth animations, and interactive elements.",
     longDescription: "This portfolio showcases my work and skills with a clean, modern design. Features include smooth scrolling, animated sections, responsive layout, and a contact form. The site is optimized for performance and SEO.",
     image: "images/P/P1.png",
-    github: "https://github.com/ShaimaTayyab",
-    live: "https://github.com/ShaimaTayyab",
+    github: "https://github.com/ShaimaTayyab/portfolio",
+    live: "https://shaima-portfolio.netlify.app",
     tech: ["HTML5", "CSS3", "Bootstrap 5", "JavaScript"],
     type: "web",
     liveDemo: {
-      url: "https://github.com/ShaimaTayyab",
+      url: "https://shaima-portfolio.netlify.app",
       features: [
         "Fully responsive design for all devices",
         "Smooth scrolling and section animations",
